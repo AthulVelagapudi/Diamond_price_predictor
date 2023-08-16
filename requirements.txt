@@ -2,4 +2,5 @@ numpy
 pandas
 Flask
 scikit-learn
+pickle-mixin
 -e .
